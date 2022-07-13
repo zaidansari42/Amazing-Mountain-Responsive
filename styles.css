@@ -214,6 +214,8 @@ input.burger-box {
 .main-ski {
   background-image: url(images/sebastian-staines-xZIFEPtRsRI-unsplash\ 1background.jpg);
 
+  background-position: left bottom;
+
   background-size: cover;
 
   min-height: 90vh;
@@ -295,7 +297,7 @@ a.btn:hover {
   }
 
   .main-ski {
-    background-position: left bottom;
+    background-position: right bottom;
   }
 
   .container {
